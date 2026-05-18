@@ -14,7 +14,7 @@ This project analyzes revenue performance across product categories, store locat
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+
 
 ---
 
